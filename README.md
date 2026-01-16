@@ -30,6 +30,4 @@ Recomenda-se criar Map com elementos do tipo Trigger para cada AP:
 - Verde (OK) quando UP
 - Vermelho (PROBLEM) quando DOWN
 
-## Licença
-MIT
-EOF
+
